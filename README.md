@@ -1,4 +1,4 @@
-# SIT210-Task5.1PGUI
+# SIT210-Task3.3DMQTT
  S306 SIT210 Task 3.3D, detect a wave and a pat using an ultrasonic sensor
 
 ## Description
