@@ -70,7 +70,7 @@ void mqttCallback(char *topic, byte *payload, unsigned int length) {
   // Act on the recovered string
   if(msg == "pat"){
     Serial.println("Pat!");
-    flash(2, 3.5);
+    flash(3, 2.5);
   }else if(msg == "wave"){
     Serial.println("Wave!");
     flash(2, 3.5);
